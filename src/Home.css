@@ -205,10 +205,7 @@ body, #root {
   font-weight: 400;
   box-sizing: border-box;
 }
-.home-user-icon {
-  cursor: pointer;
-  color:#f3f4f6
-}
+
 .home-user-icon-btn {
   background: none;
   border: none;

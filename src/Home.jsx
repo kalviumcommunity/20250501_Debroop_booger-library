@@ -46,7 +46,7 @@ function StatusBadge({ status }) {
     badgeClass += ' home-status-available';
   } else if (status === 'Issued') {
     badgeClass += ' home-status-issued';
-  } else if (status === 'Overdue' || status === 'Overdue') {
+  } else if (status === 'Overdue') {
     badgeClass += ' home-status-overdue';
   }
   return (
