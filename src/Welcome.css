@@ -1,0 +1,33 @@
+.welcome-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #f7f8fa;
+}
+
+.welcome-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcome-icon {
+  margin-bottom: 32px;
+}
+
+.welcome-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #374151;
+  margin-bottom: 10px;
+}
+
+.welcome-desc {
+  color: #6b7280;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.5;
+  max-width: 320px;
+} 
