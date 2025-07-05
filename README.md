@@ -1,12 +1,23 @@
-# React + Vite
+# Capstone Project: Booger Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Idea
 
-Currently, two official plugins are available:
+The idea of my capstone project is simple: I am going to develop a frontend website with simple navigation, featuring two major components: an authentication page and a home page. The home page will be a search page to list, add, and delete book and issue data for the user.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Two-Day Plan
 
-## Expanding the ESLint configuration
+### Tuesday: Project Setup & Initial Development
+- Set up the project repository on GitHub and make the initial commit.
+- Prepare the frontend using React (or HTML/CSS if needed).
+- Deploy the first working version of the frontend (even if minimal).
+- Continue learning and applying frontend development best practices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Wednesday: Component Development & Finalization
+- Develop the main components:
+  - Authentication page (login/signup UI)
+  - Home page with search, list, add, update, and delete functionality for books and issues.
+- Refine the UI to match the intended design and user experience.
+- Ensure all components are styled and functional.
+- Test all CRUD operations for reliability.
+- Prepare the app for final review and submission.
+
